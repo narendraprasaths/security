@@ -5,7 +5,7 @@ GLOBALS CLASSES
 body{background:url(../images/pattern-1.jpg);}
 
 p{font-family: 'Ropa Sans', sans-serif; color:#978e86; font-size:14px; font-weight:normal; line-height:20px;}
-a{text-decoration:none; color:#cf9359;}
+a{text-decoration:none; color:#FD5010;}
 a:hover{text-decoration:none; color:#978e86;}
 ul li { list-style:none; outline:none;}
 img { border:none; }
@@ -44,15 +44,15 @@ GENERAL CLASSES
 /*-------------------------------------------------
 HEADER CLASSES
 -------------------------------------------------*/
-.header{width:960px; margin:0 auto; overflow:hidden;}
+.header{width:960px; margin:0px auto; overflow:hidden;}
 .header-left-panel{width:560px; float:left;}
 .logo-wrap{width:300px; float:left; background:#f3f3ee; overflow:hidden;}
 .logo{width:280px; float:left; margin-left:20px; margin-top:114px;}
-.logo h2{font-family: 'Ropa Sans', sans-serif; font-size:18px; color:#cf9359; text-transform:uppercase; font-weight:normal;}
-.logo h1{color:#50453b; font-size:42px; padding-bottom:22px;}
+.logo h2{font-family: 'Ropa Sans', sans-serif; font-size:18px; color:#FD5010; text-transform:uppercase; font-weight:normal;}
+.logo h1{color:#000; font-size:42px; padding-bottom:22px;}
 .header-right-panel{width:400px; float:right; overflow:hidden; margin-top:30px;}
 .header-right-panel-top{width:280px; float:right;}
-.header-right-panel p{color:#cf9359; float:right; font-size:14px; text-align:right; font-weight:normal;}
+.header-right-panel p{color:#FD5010; float:right; font-size:14px; text-align:right; font-weight:normal;}
 
 .menu{width:400px; float:left; margin-top:40px;}
 .menu ul li{float:left; padding-bottom:20px; width:120px;}
