@@ -4,7 +4,7 @@ GLOBALS CLASSES
 *{margin:0; padding:0; font-family: 'Ropa Sans', sans-serif;}
 body{background:url(../images/pattern-1.jpg);}
 
-p{font-family: 'Ropa Sans', sans-serif; color:#978e86; font-size:12px; font-weight:normal; line-height:20px;}
+p{font-family: 'Ropa Sans', sans-serif; color:#978e86; font-size:11px; font-weight:normal; line-height:20px;}
 a{text-decoration:none; color:#FD5010;}
 a:hover{text-decoration:none; color:#978e86;}
 ul li { list-style:none; outline:none;}
@@ -53,9 +53,9 @@ HEADER CLASSES
 .header{width:960px; margin:0px auto; overflow:hidden;}
 .header-left-panel{width:560px; float:left;}
 .logo-wrap{width:300px; float:left; background::url(../images/pattern-1.jpg); overflow:hidden;}
-.logo{width:280px; float:left; margin-left:20px; margin-top:114px;}
+.logo{width:280px; float:left; margin-left:18px; margin-top:114px;}
 .logo h2{font-family: 'Ropa Sans', sans-serif; font-size:18px; color:#FD5010; text-transform:uppercase; font-weight:normal;}
-.logo h1{color:#fff; font-size:42px; padding-bottom:22px;}
+.logo h1{color:#fff; font-size:32px; padding-bottom:22px;}
 .header-right-panel{width:400px; float:right; overflow:hidden; margin-top:30px;}
 .header-right-panel-top{width:280px; float:right;}
 .header-right-panel p{color:#FD5010; float:right; font-size:14px; text-align:right; font-weight:normal;}
@@ -116,7 +116,7 @@ PRIMARY CONTENT CLASSS
 .primary-content .mid-panel{width:100%; background:#fff; box-shadow: 8px 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19); float:left;   padding-bottom:30px;}
 .primary-content .mid-panel-content{width:580px; margin:0 auto; overflow:hidden; padding-top:30px;}
 .primary-content .title {}
-.primary-content .mid-panel-content h2{color:#FD5010; font-size:22px; padding-top:20px; font-weight:normal;}
+.primary-content .mid-panel-content h2{color:#FD5010; font-size:18px; padding-top:20px; font-weight:normal;}
 .primary-content .mid-panel-content p{padding-top:10px; color: #111}
 .primary-content .border{border-bottom:1px solid #dadacb; margin-top:10px;}
 .primary-content .img{width:180px; margin-top:30px; float:left;}
@@ -139,6 +139,7 @@ SIDEBAR CLASSS
 .midpanel .border{border-bottom:1px solid #dadacb; margin-top:15px; margin-bottom:10px; }
 .midpanel .content ul li{display:block; border-bottom:1px solid #dadacb; height:39px; line-height:39px;}
 .midpanel .content ul li.borderNone{border-bottom:none;}
+.midpanel .content ul li p{font-size: 11px}
 .midpanel .content ul li a{background:url(../images/icon-arrow.png) no-repeat left; padding-left:25px; font-weight:normal; color:#111;}
 .midpanel .content ul li a:hover{color:#FD5010;}
 
