@@ -53,7 +53,8 @@ HEADER CLASSES
 .header{width:960px; margin:0px auto; overflow:hidden;}
 .header-left-panel{width:560px; float:left;}
 .logo-wrap{width:300px; float:left; background::url(../images/pattern-1.jpg); overflow:hidden;}
-.logo{width:280px; float:left; margin-left:18px; margin-top:114px;}
+.logo{width:280px; float:left; margin-left:18px; margin-top:94px;}
+.logo img{width: 90px; height: 100px}
 .logo h2{font-family: 'Ropa Sans', sans-serif; font-size:18px; color:#FD5010; text-transform:uppercase; font-weight:normal;}
 .logo h1{color:#fff; font-size:32px; padding-bottom:22px;}
 .header-right-panel{width:400px; float:right; overflow:hidden; margin-top:30px;}
@@ -148,7 +149,7 @@ SIDEBAR CLASSS
 .midpanel .left{width:160px; float:left; margin-right:20px;}
 .midpanel .left h2{font-size:14px; font-weight:normal; color:#FD5010; padding-bottom:14px;}
 .midpanel .left p{padding-bottom:11px; color: #111}
-.midpanel .img{float:left; width:80px;}
+.midpanel .img{float:left; width:80px; height: 80px}
 
 /*-------------------------------------------------
 CONTACT FORM CLASSS
